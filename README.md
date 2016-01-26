@@ -6,9 +6,10 @@
 
 These readings are **required**:
 
--   [The DOM | CSS-Tricks](https://css-tricks.com/dom/). You may **ignore** these sections if you wish:
-    - "JavaScript can manipulate the DOM"
-    - "Ajax and Templating"
+-   [The DOM | CSS-Tricks](https://css-tricks.com/dom/)
+    - You may **ignore** these sections if you wish:
+       - "JavaScript can manipulate the DOM"
+       - "Ajax and Templating"
 -   [The DOM | Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
 
 ## [License](LICENSE)
