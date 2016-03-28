@@ -2,17 +2,29 @@
 
 # jQuery Study
 
-## Readings
+## Prerequisites
 
-These readings are **required**:
+-   [HTML- CSS](https://github.com/ga-wdi-boston/html-css)
 
--   [The DOM | Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
+## Objectives
 
--   [The DOM | CSS-Tricks](https://css-tricks.com/dom/). You may **ignore**
-    these sections if you wish: "JavaScript can manipulate the DOM" and "Ajax
-    and Templating".
+By the end of this, developers should be able to:
 
-There are no questions for this reading there for a pull request is unnecessary. However it is quite important you read and understand the links above.
+- Name two things the DOM is not.
+- Get elements of a page using jQuery.
+
+## Instructions
+
+1.  Fork and clone this repository.
+1.  Change into the new directory.
+1.  Create and checkout a new branch, named `response`.
+1.  Follow the directions given in [`study.md`](study.md).
+1.  When finished, push to your fork and submit a pull request.
+
+You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
+related to [forking,
+cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
+requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
 
 ## [License](LICENSE)
 
