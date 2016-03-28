@@ -6,10 +6,13 @@
 
 These readings are **required**:
 
+-   [The DOM | Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
+
 -   [The DOM | CSS-Tricks](https://css-tricks.com/dom/). You may **ignore**
     these sections if you wish: "JavaScript can manipulate the DOM" and "Ajax
     and Templating".
--   [The DOM | Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
+
+There are no questions for this reading there for a pull request is unnecessary. However it is quite important you read and understand the links above.
 
 ## [License](LICENSE)
 
