@@ -8,6 +8,8 @@
     these sections if you wish: "JavaScript can manipulate the DOM" and "Ajax
     and Templating".
 
+-   [Try jQuery](http://try.jquery.com/). You only need to complete level 1.
+
 ## jQuery !== ?
 
 Please name two things the DOM is not.
