@@ -10,6 +10,10 @@
 
 -   [Try jQuery](http://try.jquery.com/). You only need to complete level 1.
 
+-   [Check out this video](https://www.youtube.com/watch?v=n1cKlKM3jYI). The
+point is to get to think about the DOM as a tree! The DOM is not source and
+it's also not a rendered page.
+
 ## jQuery !== ?
 
 Please name two things the DOM is not.
