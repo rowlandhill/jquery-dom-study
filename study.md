@@ -1,5 +1,13 @@
 # jQuery Study
 
+Use your favorite search engine and the provided readings to research and
+respond to the following questions.
+
+In your responses, be sure to cite any relevant sources you consulted in your
+search. We ask you to write responses in your own words in order to see how you
+process what you've read. Please do not respond with direct quotes from source
+material. Instead, digest what you've read and repeat it in your own voice.
+
 ## Required Readings
 
 -   [The DOM | Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)

@@ -2,6 +2,8 @@
 
 # jQuery Study
 
+What is the Document Object Model (DOM)?  What is jQuery?
+
 ## Prerequisites
 
 -   [HTML- CSS](https://github.com/ga-wdi-boston/html-css)
@@ -10,7 +12,7 @@
 
 By the end of this, developers should be able to:
 
-- Name two things the DOM is not.
+- Name two things that the DOM is not.
 - Get elements of a page using jQuery.
 
 ## Instructions
