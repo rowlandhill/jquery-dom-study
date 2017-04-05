@@ -27,17 +27,24 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+<!-- The DOM is not the HTML in Atom and it is not the View Source either. -->
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+<!-- Technically it is not "the DOM", but it is a "visual representation of it",
+meaning all the branches/trees are represented in the developer tools, so you can
+select the branches and it'll highlight them, show you the elements that are
+connected and which ones aren't, etc... to make changes to the DOM, you can use
+jQuery or JavaScript to find nodes/elements/divs - whatever - and modify it
+using the HTML DOM open() method. -->
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+<!-- to me, the DOM is important because it shows you everything that makes up
+the web page you built.  it also can correct mistakes that the developer made
+and allows JavaScript to execute on websites. -->
 ```
